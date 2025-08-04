@@ -1,0 +1,20 @@
+NBA Accreditation Guidelines (2024):
+
+Criterion 1: Vision and Mission
+Criterion 2: Program Curriculum
+Criterion 3: Course Outcomes and Program Outcomes (CO-PO Mapping)
+Criterion 4: Student Performance
+Criterion 5: Faculty Contributions
+Criterion 6: Facilities and Technical Support
+Criterion 7: Continuous Improvement
+
+Format for CO-PO Mapping:
+- Matrix with COs in rows and POs in columns
+- Map each CO to relevant PO with level (1: Low, 2: Medium, 3: High)
+
+SAR (Self-Assessment Report) Sections:
+- Institutional Overview
+- Curriculum Details
+- Faculty and Staff
+- Student Data
+- Continuous Improvement Plans
